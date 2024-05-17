@@ -37,6 +37,8 @@
 - 近期会议期刊：[https://ddl.tjunsl.com/](https://ddl.tjunsl.com/)
 
   > 不定期更新（月更）
+  > 
+  > 实时会议信息可见 [https://ccf.tjunsl.com/](https://ccf.tjunsl.com/)
 
 - 学部集群：[cluster.tjunsl.com](https://cluster.tjunsl.com/)
 
