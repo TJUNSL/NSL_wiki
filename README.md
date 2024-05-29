@@ -12,7 +12,7 @@
   >
   > 校外访问：sout.tjunsl.com
 
-- GPT-4接口：[http://chat.tjunsl.com/](http://chat.tjunsl.com/)
+- ~~GPT-4接口：http://chat.tjunsl.com/~~ 有可能被ban，已下线
 
   > 仅限内网，密码为tju
   >
