@@ -6,6 +6,8 @@
 
 ## Useful Links
 
+- [各类资源信息](./resource/)
+
 - 实验室服务器：[s.tjunsl.com](http://s.tjunsl.com/) 或 [lab2.dack.top](http://lab2.dack.top/)
 
   > 二者等价，仅限内网访问

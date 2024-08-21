@@ -1,7 +1,3 @@
-[TOC]
-
-------
-
 ## Academic
 
 [镜像站](https://mirror.js.org/)
@@ -19,7 +15,7 @@
 
 ### Ranking
 
-- [中科院分区表  (用户名、密码：tju)](https://www.fenqubiao.com/Default.aspx)
+- [中科院分区表  (用户名、密码：tju，仅内网)](https://www.fenqubiao.com/Default.aspx)
 - [CCF推荐国际学术刊物目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [JCR](https://jcr.clarivate.com/jcr/home)
 
