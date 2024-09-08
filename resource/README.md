@@ -25,7 +25,6 @@
 - [Zotero](https://www.zotero.org/download/)
 - [EndNote - TJU](https://home.lib.tju.edu.cn/engine2/general/more?t=8068AF879988C81D287725F43F903A645CF7B8815A97FCC771D017C498D1466D7EE9776D343A1A83&pageId=60640&wfwfid=25111&websiteId=47019)
 - [小绿鲸](https://www.xljsci.com/)  
-
   > If you need to crack, contact me. Currently supports all system platforms except iPad, including the online version in the browser.
 
 ## Coding
@@ -40,15 +39,11 @@
 **Python:**  
 
 - [Python](https://www.python.org/)
-
 - [PyPI](https://bootstrap.pypa.io/get-pip.py)
-
   > python get-pip.py
   >
   > Source: https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
-
 - [Anaconda](https://www.anaconda.com/download/success)
-
   > Source: https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
 
 **Others:**
@@ -58,7 +53,6 @@
 - [PHP](https://www.php.net/downloads.php)
 - [XAMPP](https://www.apachefriends.org/)
 - [MobaXterm](https://mobaxterm.mobatek.net/)
-
   > Keygen: https://github.com/flygon2018/MobaXterm-keygen
 
 ### IDEs
@@ -79,9 +73,7 @@
 **Editor:**
 
 - [010 Editor](https://www.sweetscape.com/010editor/)
-
   > Keygen: https://github.com/p1ay8y3ar/010editor_keygen
-
 - [Sublime Text](https://www.sublimetext.com/)
 
 ### Education
@@ -95,7 +87,5 @@
 ## Others
 
 - [unsecurity TJU](https://gist.github.com/WWILLV/95e8ffa8d72fdd07eab67bb6b1104293/raw/d79622ec675e25c81a242e449db4148b513e5e4e/unsecurity_TJU.user.js)
-
   > 各种TJU网页不支持https报502，自动切换http协议
-
 - TBD
