@@ -8,19 +8,21 @@
 
 - [各类资源信息](./resource/)
 
+- 共享Overleaf账号（绕过多人编辑限制）
+
+  > 如有需要，可联系wwz
+
 - 实验室服务器：[s.tjunsl.com](http://s.tjunsl.com/) 或 [lab2.dack.top](http://lab2.dack.top/)
 
   > 二者等价，仅限内网访问
   >
   > 校外访问：sout.tjunsl.com
 
-- ~~GPT-4接口：http://chat.tjunsl.com/~~ 有可能被ban，已下线
+- GPT-4接口：http://chat.tjunsl.com/
 
   > 仅限内网，密码为tju
   >
-  > 使用时需提前获取GitHub copilot (GitHub学生认证免费)
-  >
-  > 在Jetbrains旗下软件中安装copilot插件并登录，api key会保存在`%User%\AppData\Local\github-copilot\hosts.json`中
+  > 基于Qwen2.5于服务器部署。性能有限，上下文较短，使用时需注意。
 
 - 吃啥：[https://hall.willv.cn/](https://hall.willv.cn/)
 
@@ -34,7 +36,7 @@
 
 - 实验室GitHub：[https://github.com/TJUNSL](https://github.com/TJUNSL)
 
-  > 如有需要，可联系王炜喆Invite加入Organization
+  > 如有需要，可联系wwz Invite加入Organization
 
 - 近期会议期刊：[https://ddl.tjunsl.com/](https://ddl.tjunsl.com/)
 
@@ -50,9 +52,9 @@
 
 ## Something else
 
-1. 如有使用DNS解析（tjunsl.com域）需求，可联系王炜喆或梁展溥
-1. 如有使用域名邮箱（@tjunsl.com）需求，可联系王炜喆
-1. 如有使用海外服务器（jp.tjunsl.com）需求（仅限流量转发），可联系王炜喆
+1. 如有使用DNS解析（tjunsl.com域）需求，可联系wwz或lzp
+2. 如有使用域名邮箱（@tjunsl.com）需求，可联系wwz
+3. 如有使用海外服务器（jp.tjunsl.com）需求（仅限流量转发），可联系wwz
 
 ## More about the Lab Server
 
